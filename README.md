@@ -37,6 +37,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: ![Solution Link](https://github.com/consumerofbeanss/expenses-chart-page-main)
 - Live Site URL: ![Live Site]([https://your-live-site-url.com](https://consumerofbeanss.github.io/expenses-chart-page-main/))
 
 ## My process
