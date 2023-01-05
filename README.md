@@ -19,6 +19,7 @@ This is a solution to the [Expenses-chart page Quiz 2 challenge]
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This website contains a bar chart representing the user's expenses for the past 7 days. When the user hovers over the bar of a certain day, it shows the amount they spent on said day. It also shows their current balance and the month's total expenses so far, as well as a percentage showing the difference with the previous month.
 
 ### The challenge
 
@@ -37,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://consumerofbeanss.github.io/expenses-chart-page-main/))
+- Live Site URL: ![Live Site]([https://your-live-site-url.com](https://consumerofbeanss.github.io/expenses-chart-page-main/))
 
 ## My process
 
